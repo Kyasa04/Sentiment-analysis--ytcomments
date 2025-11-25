@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to our project
 
 ## Team Members
 
@@ -13,9 +13,6 @@
 **URL**:https://sentiment-analysis-ytcomments.vercel.app/
 
 
-## How can I edit this code?
-
-There are several ways of editing your application.
 
 **Use your preferred IDE**
 
